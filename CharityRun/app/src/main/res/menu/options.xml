@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/edit"
+        android:icon="@drawable/pencil"
+        android:title="Edit Profile"
+        ></item>
+
+    <item android:id="@+id/MyContri"
+        android:icon="@drawable/run"
+        android:title="My Contributions"
+        ></item>
+    <item android:id="@+id/Logout"
+        android:icon="@drawable/logout"
+        android:title="Log Out">
+
+    </item>
+</menu>
